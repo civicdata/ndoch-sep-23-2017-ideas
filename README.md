@@ -5,7 +5,8 @@ __Lab Ideas:)__
         Alexa medication reminder skill    
         Alexa to Alexa notifier that says you fell or need help
         Apparently I can only think of Alexa skills
-        Oh wait- a web app to make it easier to check if you are registered for benefits?
+        Oh wait- a web app to make it easier to check if you are registered for benefits?  
+	Utilizing Air Quality Data <- maps, apps, etc.
 
 *Please add any ideas you have for the lab session above*
 
